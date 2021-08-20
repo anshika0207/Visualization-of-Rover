@@ -1,3 +1,7 @@
 # Visualization-of-Rover
 
-See Project video: https://youtu.be/lDOMT9uufjQ
+Visualization of MarsRover using ROS-Rviz: [Project Video](https://youtu.be/lDOMT9uufjQ)
+# Three-joint-Model
+Visualization of a Three Joint Model:
+[Project Video](https://youtu.be/APEuNXsNwQI)
+
